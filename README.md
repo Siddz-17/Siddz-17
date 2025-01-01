@@ -1,4 +1,4 @@
-#Yyokoso!, I'm Siddz-17! 👋
+#Yokoso!, I'm Siddz-17! 👋
 
 Welcome to my GitHub profile! I'm passionate about experimenting and creating Stuff. Here's a little bit about me:
 
