@@ -1,4 +1,4 @@
-#About Me:
+## About Me:
 I’m currently working on Generative AI and Time-Series Forecasting applications.<br>
 I’m currently learning: FastAPI, AI Agents, and Multimodal applications.<br>
 I’m looking to collaborate on any AI/ML projects :)<br>
