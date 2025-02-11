@@ -41,7 +41,8 @@ Fun fact: I have a good eye for Photography and I'm Learning Japanese!
 
 [![](https://visitcount.itsvg.in/api?id=Siddz-17&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🐍 GitHub Snake Animation
-
-![GitHub Snake Light](https://github.com/Siddz-17/Siddz-17/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/Siddz-17/Siddz-17/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddz-17/Siddz-17/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddz-17/Siddz-17/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
