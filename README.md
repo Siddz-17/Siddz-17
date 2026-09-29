@@ -9,14 +9,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Siddz-17&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="Profile views" />
 <a href="https://github.com/Siddz-17?tab=followers"><img src="https://img.shields.io/github/followers/Siddz-17?style=for-the-badge&logo=github&color=0ea5e9&labelColor=0d1117" alt="Followers" /></a>
-<a href="https://github.com/Siddz-17?tab=repositories"><img src="https://img.shields.io/badge/Repos-38-22c55e?style=for-the-badge&logo=github&labelColor=0d1117" alt="Repos" /></a>
-
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/siddharth-rishi-22050b259/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/siddz-17"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 </div>
 
@@ -28,10 +22,9 @@
 class Siddharth:
     def __init__(self):
         self.role     = "AI / ML Engineer in the making"
-        self.location = "Hyderabad, India 🇮🇳"
         self.focus    = ["Generative AI", "Time-Series Forecasting"]
         self.learning = ["FastAPI", "AI Agents", "Multimodal Apps", "Japanese 🇯🇵"]
-        self.hobbies  = ["Photography 📸", "Anime & Japan culture"]
+        self.hobbies  = ["Photography 📸"]
         self.open_to  = "Collaborating on AI/ML projects"
 
     def say_hi(self):
@@ -39,58 +32,7 @@ class Siddharth:
 ```
 
 > [!TIP]
-> **Open to collaboration!** If you're working on anything in GenAI, forecasting, or agentic systems, I'd love to hear about it. Open an issue or reach out on LinkedIn.
-
-<!-- ═══════════════ CURRENT FOCUS ═══════════════ -->
-
-## 🎯 Current Focus
-
-```mermaid
-mindmap
-  root((Siddharth))
-    Generative AI
-      RAG pipelines
-      LLM apps
-    Forecasting
-      Time-Series models
-      Meta-learning
-    Learning
-      FastAPI
-      AI Agents
-      Multimodal
-    Life
-      Photography
-      Japanese
-```
-
-<table>
-<tr>
-<td>
-
-🔭 **Working on**
-Generative AI & Time-Series Forecasting apps
-
-</td>
-<td>
-
-🌱 **Learning**
-FastAPI · AI Agents · Multimodal apps
-
-</td>
-<td>
-
-🤝 **Looking for**
-AI/ML collaborations
-
-</td>
-<td>
-
-⚡ **Fun fact**
-Photography + learning Japanese
-
-</td>
-</tr>
-</table>
+> **Open to collaboration!** If you're working on anything in GenAI, forecasting, or agentic systems, I'd love to hear about it. Reach out on LinkedIn.
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 
@@ -104,7 +46,7 @@ Photography + learning Japanese
 
 **Data, Cloud & Tools**
 
-<img src="https://skillicons.dev/icons?i=supabase,hadoop,anaconda,git,github,githubactions,docker,vscode,jupyter&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=supabase,hadoop,anaconda,git,github,githubactions,vscode,jupyter&theme=dark" alt="Tools" />
 
 <br/>
 
@@ -133,55 +75,22 @@ Photography + learning Japanese
 
 </details>
 
-<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
+<!-- ═══════════════ ACTIVITY ═══════════════ -->
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Siddz-17/DeepseekR1-Rag">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddz-17&repo=DeepseekR1-Rag&theme=tokyonight&hide_border=true" alt="DeepseekR1-Rag" />
-</a>
-<a href="https://github.com/Siddz-17/LexAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddz-17&repo=LexAI&theme=tokyonight&hide_border=true" alt="LexAI" />
-</a>
-<a href="https://github.com/Siddz-17/UrbanSound8kMAML">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddz-17&repo=UrbanSound8kMAML&theme=tokyonight&hide_border=true" alt="UrbanSound8kMAML" />
-</a>
-
-</div>
-
-<!-- ═══════════════ STATS ═══════════════ -->
-
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Siddz-17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddz-17&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=Siddz-17&theme=tokyonight&hide_border=true" alt="Streak stats" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Siddz-17&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddz-17/Siddz-17/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddz-17/Siddz-17/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Siddz-17/Siddz-17/output/github-snake-dark.svg" />
+</picture>
 
-</div>
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddz-17&theme=tokyo-night&hide_border=true&area=true&custom_title=Siddharth%27s%20Contribution%20Graph" alt="Contribution graph" width="100%" />
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddz-17/Siddz-17/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddz-17/Siddz-17/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Siddz-17/Siddz-17/output/github-snake-dark.svg" />
-  </picture>
 </div>
 
 <!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
@@ -202,15 +111,9 @@ Photography + learning Japanese
 
 <div align="center">
 
-| 💼 Professional | 📸 Creative |
-|:---:|:---:|
-| [LinkedIn](https://www.linkedin.com/in/siddharth-rishi-22050b259/) | [Instagram](https://instagram.com/siddz-17) |
+<a href="https://www.linkedin.com/in/siddharth-rishi-22050b259/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-<br/>
-
-<i>"The best way to predict the future is to build it."</i> 🌌
-
-<br/>
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer" />
 
