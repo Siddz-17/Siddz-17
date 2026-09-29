@@ -1,44 +1,217 @@
-## 👨‍🔧 About Me:
-I’m currently working on Generative AI and Time-Series Forecasting applications.<br>
-I’m currently learning: FastAPI, AI Agents, and Multimodal applications.<br>
-I’m looking to collaborate on any AI/ML projects :)<br>
-Fun fact: I have a good eye for Photography and I'm Learning Japanese!
+<!-- ═══════════════ HEADER ═══════════════ -->
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddz.17) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharth-rishi-22050b259)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Siddharth%20Rishi&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=GenAI%20%C2%B7%20Time-Series%20%C2%B7%20AI%20Agents&descSize=20&descAlignY=58" alt="Header banner" />
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) 
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
-![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) 
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+<a href="https://github.com/Siddz-17">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=640&height=50&lines=Avid+Python+programmer+%F0%9F%90%8D;Building+Generative+AI+applications+%F0%9F%A4%96;Forecasting+the+future+with+Time-Series+%F0%9F%93%88;Currently+exploring+AI+Agents+%26+Multimodal+AI+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Siddz-17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Siddz-17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddz-17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=Siddz-17&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://komarev.com/ghpvc/?username=Siddz-17&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="Profile views" />
+<a href="https://github.com/Siddz-17?tab=followers"><img src="https://img.shields.io/github/followers/Siddz-17?style=for-the-badge&logo=github&color=0ea5e9&labelColor=0d1117" alt="Followers" /></a>
+<a href="https://github.com/Siddz-17?tab=repositories"><img src="https://img.shields.io/badge/Repos-38-22c55e?style=for-the-badge&logo=github&labelColor=0d1117" alt="Repos" /></a>
 
----
+<br/><br/>
 
-[![](https://visitcount.itsvg.in/api?id=Siddz-17&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://www.linkedin.com/in/siddharth-rishi-22050b259/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/siddz-17"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
+</div>
 
+<!-- ═══════════════ ABOUT ═══════════════ -->
+
+## 👨‍💻 About Me
+
+```python
+class Siddharth:
+    def __init__(self):
+        self.role     = "AI / ML Engineer in the making"
+        self.location = "Hyderabad, India 🇮🇳"
+        self.focus    = ["Generative AI", "Time-Series Forecasting"]
+        self.learning = ["FastAPI", "AI Agents", "Multimodal Apps", "Japanese 🇯🇵"]
+        self.hobbies  = ["Photography 📸", "Anime & Japan culture"]
+        self.open_to  = "Collaborating on AI/ML projects"
+
+    def say_hi(self):
+        return "Let's build something intelligent together! 🤝"
+```
+
+> [!TIP]
+> **Open to collaboration!** If you're working on anything in GenAI, forecasting, or agentic systems, I'd love to hear about it. Open an issue or reach out on LinkedIn.
+
+<!-- ═══════════════ CURRENT FOCUS ═══════════════ -->
+
+## 🎯 Current Focus
+
+```mermaid
+mindmap
+  root((Siddharth))
+    Generative AI
+      RAG pipelines
+      LLM apps
+    Forecasting
+      Time-Series models
+      Meta-learning
+    Learning
+      FastAPI
+      AI Agents
+      Multimodal
+    Life
+      Photography
+      Japanese
+```
+
+<table>
+<tr>
+<td>
+
+🔭 **Working on**
+Generative AI & Time-Series Forecasting apps
+
+</td>
+<td>
+
+🌱 **Learning**
+FastAPI · AI Agents · Multimodal apps
+
+</td>
+<td>
+
+🤝 **Looking for**
+AI/ML collaborations
+
+</td>
+<td>
+
+⚡ **Fun fact**
+Photography + learning Japanese
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=py,go,fastapi,flask,pytorch,tensorflow,keras,sklearn,numpy,pandas&theme=dark" alt="Languages and frameworks" />
+
+**Data, Cloud & Tools**
+
+<img src="https://skillicons.dev/icons?i=supabase,hadoop,anaconda,git,github,githubactions,docker,vscode,jupyter&theme=dark" alt="Tools" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Hive" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+
+</div>
+
+<details>
+<summary><b>📚 Click to expand: full skill breakdown</b></summary>
+<br/>
+
+| Area | Tools |
+|---|---|
+| 🧠 **Deep Learning** | PyTorch, TensorFlow, Keras, CUDA |
+| 📊 **Data Science** | NumPy, Pandas, SciPy, scikit-learn |
+| 📈 **Visualization** | Matplotlib, Plotly, Streamlit |
+| 🌐 **Backend** | FastAPI, Flask, Supabase |
+| 🐘 **Big Data** | Apache Hadoop, Apache Hive |
+| 🧰 **Environment** | Anaconda, Git, GitHub Actions |
+| 🗣️ **Languages** | Python, Go |
+
+</details>
+
+<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Siddz-17/DeepseekR1-Rag">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddz-17&repo=DeepseekR1-Rag&theme=tokyonight&hide_border=true" alt="DeepseekR1-Rag" />
+</a>
+<a href="https://github.com/Siddz-17/LexAI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddz-17&repo=LexAI&theme=tokyonight&hide_border=true" alt="LexAI" />
+</a>
+<a href="https://github.com/Siddz-17/UrbanSound8kMAML">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddz-17&repo=UrbanSound8kMAML&theme=tokyonight&hide_border=true" alt="UrbanSound8kMAML" />
+</a>
+
+</div>
+
+<!-- ═══════════════ STATS ═══════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Siddz-17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddz-17&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Siddz-17&theme=tokyonight&hide_border=true" alt="Streak stats" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Siddz-17&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
+
+</div>
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddz-17&theme=tokyo-night&hide_border=true&area=true&custom_title=Siddharth%27s%20Contribution%20Graph" alt="Contribution graph" width="100%" />
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddz-17/Siddz-17/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddz-17/Siddz-17/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Siddz-17/Siddz-17/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
+
+## 🏆 Achievements
+
+<div align="center">
+
+<a href="https://github.com/Siddz-17?tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90" alt="Pull Shark" /></a>
+<a href="https://github.com/Siddz-17?tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" alt="Quickdraw" /></a>
+<a href="https://github.com/Siddz-17?tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="90" alt="YOLO" /></a>
+
+</div>
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+| 💼 Professional | 📸 Creative |
+|:---:|:---:|
+| [LinkedIn](https://www.linkedin.com/in/siddharth-rishi-22050b259/) | [Instagram](https://instagram.com/siddz-17) |
+
+<br/>
+
+<i>"The best way to predict the future is to build it."</i> 🌌
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer" />
+
+</div>
