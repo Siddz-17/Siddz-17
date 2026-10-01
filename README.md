@@ -9,8 +9,6 @@
 
 <br/>
 
-<a href="https://github.com/Siddz-17?tab=followers"><img src="https://img.shields.io/github/followers/Siddz-17?style=for-the-badge&logo=github&color=0ea5e9&labelColor=0d1117" alt="Followers" /></a>
-<a href="https://www.linkedin.com/in/siddharth-rishi-22050b259/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
