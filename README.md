@@ -21,7 +21,7 @@
 ```python
 class Siddharth:
     def __init__(self):
-        self.role     = "AI / ML Engineer in the making"
+        self.role     = "Analyst ; Into AI/ML"
         self.focus    = ["Generative AI", "Time-Series Forecasting"]
         self.learning = ["FastAPI", "AI Agents", "Multimodal Apps", "Japanese 🇯🇵"]
         self.hobbies  = ["Photography 📸"]
